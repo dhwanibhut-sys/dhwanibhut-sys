@@ -4,7 +4,7 @@
   <a href="mailto:dhwanibhut6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/dhwani-bhut"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/dhwanicodes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=dhwanicodes&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+ 
 </p>
 
 <p align="center">
@@ -130,20 +130,7 @@ class DhwaniBhut:
 | 🌍 | **World Book of Records London** recipient (2025) |
 | 💡 | **435+ LeetCode problems** solved · CodeChef **3-Star (1600+)** |
 
----
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhwanicodes&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dhwanicodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhwanicodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
-</p>
-
----
 
 <p align="center">
   <i> Thanks for visiting <3 </i>

@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Dhwani 👋
 
-<!--
-**dhwanibhut-sys/dhwanibhut-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ PDEU (CPI: 9.34)
+💡 Interested in AI, ML, and Systems
+🚀 Ex-Research Intern @ IIT Hyderabad
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently Working On:
+- Domain-Specific Code Generation using LLMs
+- RAG-based AI Systems
+
+---
+
+💼 Projects:
+- Skill Spell → AI chatbot with RAG (1000+ queries handled)
+- DataPipe → Automated data pipeline (150K+ records)
+- Code Time Travel Debugger → Reduced debugging time by 60%
+
+---
+
+🛠 Tech Stack:
+Languages: Python, C++, JavaScript  
+Frameworks: React, Node.js, FastAPI  
+Tools: Docker, AWS, MongoDB, Redis  
+
+---
+
+📫 Connect with me:
+LinkedIn: <[https://www.linkedin.com/in/dhwani-bhut-5a9473337]> 
+Portfolio: <[https://portfolio-chi-peach-72.vercel.app/about]>
